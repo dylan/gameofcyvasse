@@ -15,6 +15,9 @@
     8. [Elephant](#elephant)
     9. [Dragon](#dragon)
     10. [King](#king)
+4.  [Rules of Battle](#rules_of_battle)
+    1. [Movement](#movement)
+    2. [Combat](#combat)
 4.  [End Game](#end_game)
 5.  [Notes](#notes)
 
@@ -50,18 +53,6 @@ Fortress
 There are 10 pieces, each with their own unique abilities. Each player receives one of each at the start of the game to place where they wish inside of their homeland.
 All units can kill a unit of their same type or lower, and the one above it. The list below has the weakest units at the top progressing to the strongest.
 
-###Movement
-Pieces move and attack at the same time similar to chess. When moving you count how many spaces you have moved. This can translate into straight, diagonal or turning movements on the board. This applies to all units with the exception of the dragon which must move in straight horizontal/vertical/diagonal paths. Enemy units may block your path and need to be removed in order to continue.
-
-###Combat
-Units are taken by one player from another by skillful maneuvers across the field. An attack ends movement for that turn. Players may attack their own units.
-
-####Melee
-Melee units attack other units by moving into and occupying the space of the other piece, which is then destroyed. When a piece is engage in melee all movement is stopped for the remainder of that turn.
-
-####Ranged
-Ranged units (Crossbowmen, Catapults, Trebuchet) do not have to move to attack but can target and remove appropriate units that are in their range.
-
 Rabble
   : Rabble can move one space at a time.
   
@@ -96,6 +87,21 @@ Dragon
   
 King
   : The king can kill any other unit and move one space.
+
+##Rules of Battle
+
+###Movement
+Pieces move and attack at the same time similar to chess. When moving you count how many spaces you have moved. This can translate into straight, diagonal or turning movements on the board. This applies to all units with the exception of the dragon which must move in straight horizontal/vertical/diagonal paths. Enemy units may block your path and need to be removed in order to continue.
+
+###Combat
+Units are taken by one player from another by skillful maneuvers across the field. An attack ends movement for that turn. Players may attack their own units.
+
+####Melee
+Melee units attack other units by moving into and occupying the space of the other piece, which is then destroyed. When a piece is engage in melee all movement is stopped for the remainder of that turn.
+
+####Ranged
+Ranged units (Crossbowmen, Catapults, Trebuchet) do not have to move to attack but can target and remove appropriate units that are in their range.
+
 
 ##End Game
 The game ends when one player's king is killed.

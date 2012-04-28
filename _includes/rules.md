@@ -111,5 +111,5 @@ These rules are a work in progress. Based on several mentions, descriptions, and
 
 Thanks to Mr. Martin for creating an amazing world and spinning tremendous fiction. I've spent more than a decade enjoying your work.
 
-Please file suggestions/issues here on [github](https://github.com/dylan/gameofcyvasse/issues), or fork and improve the [repo]([github](https://github.com/dylan/gameofcyvasse).
+Please file suggestions/issues here on [github](https://github.com/dylan/gameofcyvasse/issues), or fork and improve the [repo](https://github.com/dylan/gameofcyvasse).
   

@@ -29,20 +29,20 @@ Cyvasse is a game from Old Volantis oft mentioned in the book series [_A Song of
 The board consists of an 8 by 8 play area. Each half, referred to as a homeland, is an area of 8 by 4 and is separated at the start of the game by a screen providing sufficient cover so as each player cannot see the other's homeland.
 During this phase each receives their tiles and may construct their homeland by placing tiles according the each of the tile's attributes and considerations as defined below.
 ### Tiles
-Mountains x 6
+Mountains x 6 (carnelian, reddish-brown)
   : This tile is impassable to all units except Dragons.
     Ranged units may attack Dragons that are on mountain tiles but they cannot attack through one.
     Players may not exceed two mountains per row. This prevents mountains from being build into impassible walls.
 
-Water x 5
+Water x 5 (lapis lazuli, blue)
   : Water stops a unit's movement once they enter it.
 That unit can not be moved next turn and must wait until that turn is passed before it moves again.
 Tebuchets, Catapaults, Crossbowmen can not attack while they are in this tile.
 
-Forest x 6
+Forest x 6 (jade, dark green)
   : A forest tile diminishes a unit's maximum range by one upon entering it. For example: If a light horse, which has a range of three, enters a forest on it's first move, it may now only move one more space.
 
-Grass x 14
+Grass x 14 (jade, green)
   : Grass does not hinder hinder or improve any unit's abilities.
 
 Fortress x 1

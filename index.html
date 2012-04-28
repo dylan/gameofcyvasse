@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article>
+  <section class="body instapaper_body">
+    {% capture rules %}
+      {% include rules.md %}
+    {% endcapture %}
+    {{ rules | unindent | markdownify }}
+  </section>
+  <footer>
+  </footer>
+</article>
+
+
+

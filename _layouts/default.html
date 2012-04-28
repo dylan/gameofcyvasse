@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>The Rules of Cyvasse</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="shortcut icon" href="/favicon.ico" />
+</head>
+<body>
+  <header>    
+    <h2><a href="{{ site.url }}">The Rules of</a></h2>
+    <h1><a href="{{ site.url }}">Cyvasse</a></h1>
+    <h3>{{ site.version }}</h3>
+  </header>
+{{ content }}
+  <footer>
+    <p><a href="http://twitter.com/dylanrw">@dylanrw</a></p>
+  </footer>
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31244066-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+</body>
+</html>

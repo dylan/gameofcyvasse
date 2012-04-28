@@ -1,0 +1,14 @@
+---
+layout: default
+---
+  <article>
+    <header>
+      <h1 class="title instapaper_title">{% if page.link %}<a href="{{ page.link }}">{{ page.title }}</a>{% else %}<a href="{{ page.url }}">{{page.title}}</a>{% endif %}</h1>
+      <time class="post-date" datetime="{{ page.date }}">{{ page.date | date_to_string }}</time>
+    </header>
+    <section class="body instapaper_body">
+    {{ content }}
+    </section>
+    <footer>
+    </footer>
+  </article>

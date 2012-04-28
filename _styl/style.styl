@@ -1,0 +1,199 @@
+@import nib
+@import normalize
+
+@font-face {
+  font-family: 'Essays 1743';
+  src: url('essays1743-webfont.eot');
+  src: local('Essays 1743'), url('essays1743-webfont.woff') format('woff'), url('essays1743-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Essays 1743';
+  src: url('essays1743-italic-webfont.eot');
+  src: local('Essays 1743'), url('essays1743-italic-webfont.woff') format('woff'), url('essays1743-italic-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+html, body
+	background-color: #fff
+	color: #333
+	-webkit-font-smoothing: antialiased
+
+body
+	font: 16px/1.556 Palatino, Georgia, "Times New Roman", serif
+	word-spacing: 0.1em
+	margin: 0
+	padding: 0
+	img
+		display: block
+		max-width: 100%
+		margin: 0.5em auto
+		border: 0
+		border-style: none
+	> header
+		text-align: center
+		> h1, > h2
+			margin: 0 auto
+		h1
+			margin-bottom: 0
+			a
+				color: #32322A
+				text-decoration: none
+		h2
+			line-height: 1.2em
+			max-width: 320px
+			font-size: 1.25em
+			color: #808080
+			a
+				color: #32322A
+				text-decoration: none
+      
+	> header, > article, > footer
+		padding: 1em
+	ul
+		margin-top: 0
+	p
+		color: #333
+	h1 a
+		text-decoration: none
+		color:#32322A
+	footer
+		a
+			font-weight: 700
+		p
+			text-align: center
+			font-size: .75em
+
+article
+	header
+		position: relative
+	h1
+		float:left
+		margin-bottom: 0
+		line-height: 1.2em
+		padding-right: 1.75em
+		color: #32322A
+	h1
+		font-size: 1.35em
+	h2
+		font-size: 1.25em
+	h3
+		font-size: 1.15em
+	time.post-date
+		display: block
+		font-size: .95em
+		color: #aaa
+		margin: 0 0 1em
+		clear:left
+	a.link
+		display: block
+		position: absolute
+		right: .75em
+		top: .65em
+		font-size: .75em
+		line-height: 0.7em
+		text-align: center
+		text-decoration: none
+		padding: 5px
+		color: white
+		border: 1px solid #d9d9d9
+		background-color: #d9d9d9
+		border-radius: 3px
+		&:hover
+			border: 1px solid #0099E6
+			background-color: #4693C1
+	footer
+		text-align: center
+		margin: 0 auto
+		font-size: 2em
+		color: #e9e9e9
+		
+
+h1, h2, h3, h4
+	margin: 0 0 .15em 0
+	clear: both
+	font-family: "Essays 1743", Serif
+	font-weight: normal
+p
+	margin: 0
+	padding-bottom: 1em
+	text-rendering: optimizelegibility
+	// text-align: justify
+	-webkit-hyphens: auto
+	-moz-hyphens: auto
+	hyphens: auto
+a
+	color: #4693C1
+a[id]
+  color: inherit
+
+ul
+ol
+  li
+    list-style: upper-roman
+    font-family: "Essays 1743", Serif
+    ol
+      margin-top: 0
+      margin-bottom: 8px
+      padding-left: 0
+      li
+        list-style: lower-roman inside
+    p, a
+      padding-bottom: 0
+      font-family: Palatino, Georgia, "Times New Roman", serif
+
+blockquote
+	border-left: 5px solid #4693C1
+	color: #666
+	padding-left: 1em
+
+
+
+section.archive
+	ul
+		list-style: none
+		padding-left: .5em
+
+
+::selection
+	background: #32322A
+	color: #8F908A
+
+::-moz-selection
+	background: #32322A
+	color: #8F908A
+
+/* @media screen and (min-width: 320px) */
+@media screen and (min-width: 20em)
+	body
+		font-size: 1em
+		pre, code
+			font-size: .95em
+		> header, > article, > footer, ul.posts, section.archive
+			width: 80%
+			margin: 0 auto
+			padding: 1em 10% 1.5em
+
+/* @media screen and (min-width: 320px) */
+@media screen and (min-width: 50em)
+	body
+		font-size: 1.05em
+		pre, code
+			font-size: .95em
+		> header, > article, > footer, ul.posts, section.archive
+			width: 72%;
+			padding: 1em 14% 1.5em
+			margin: 0 auto 1em
+
+/* @media screen and (min-width: 1024px) */
+@media screen and (min-width: 64em)
+	body
+		font-size: 1.15em
+		pre, code
+			font-size: .95em
+		> header, > article, > footer, ul.posts, section.archive
+			width: 60%;
+			margin: 0 auto 1em
+			padding: 1em 20% 1.5em

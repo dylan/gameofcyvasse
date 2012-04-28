@@ -43,7 +43,7 @@ Forest x 6 (jade, dark green)
   : A forest tile diminishes a unit's maximum range by one upon entering it. For example: If a light horse, which has a range of three, enters a forest on it's first move, it may now only move one more space.
 
 Grass x 14 (jade, green)
-  : Grass does not hinder hinder or improve any unit's abilities.
+  : Grass does not hinder or improve any unit's abilities.
 
 Fortress x 1
   : A fortress is a tile that provides an occupying unit salvation. If a unit is occupying a fortress and is attacked and would normally be taken, it is instead left in play and the fortress is 'ruined' in it's stead. A ruined fortress cannot be used again in this manner.
@@ -108,4 +108,8 @@ The game ends when one player's king is killed.
 
 ##Notes
 These rules are a work in progress. Based on several mentions, descriptions, and transactions in George R.R. Martin's excellent series. I've tried to construct a game that matches the story and makes for an interesting/deep/dynamic board game.
+
+Thanks to Mr. Martin for creating an amazing world and spinning tremendous fiction. I've spent more than a decade enjoying your work.
+
+Please file suggestions/issues here on [github](https://github.com/dylan/gameofcyvasse/issues), or fork and improve the [repo]([github](https://github.com/dylan/gameofcyvasse).
   

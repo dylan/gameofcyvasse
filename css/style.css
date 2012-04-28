@@ -289,6 +289,8 @@ body img {
 }
 body > header {
   text-align: center;
+  padding-bottom: 0;
+  font-size: 1.5em;
 }
 body > header > h1,
 body > header > h2 {
@@ -395,6 +397,9 @@ h4 {
   font-family: "Essays 1743", Serif;
   font-weight: normal;
 }
+h4 {
+  font-style: italic;
+}
 p {
   margin: 0;
   padding-bottom: 1em;
@@ -423,8 +428,8 @@ ol li ol {
   margin-bottom: 8px;
   padding-left: 0;
 }
-ul li ol li,
-ol li ol li {
+ul li li,
+ol li li {
   list-style: lower-roman inside;
 }
 ul li p,
@@ -433,6 +438,14 @@ ul li a,
 ol li a {
   padding-bottom: 0;
   font-family: Palatino, Georgia, "Times New Roman", serif;
+}
+dl dt {
+  font-family: "Essays 1743", Serif;
+  margin-bottom: 0.25em;
+}
+dl dd {
+  font-family: Palatino, Georgia, "Times New Roman", serif;
+  margin: 0 0 0.75em 0.5em;
 }
 blockquote {
   border-left: 5px solid #4693c1;

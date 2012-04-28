@@ -34,6 +34,9 @@ body
 		border-style: none
 	> header
 		text-align: center
+		padding-bottom: 0
+		font-size: 1.5em
+
 		> h1, > h2
 			margin: 0 auto
 		h1
@@ -116,6 +119,8 @@ h1, h2, h3, h4
 	clear: both
 	font-family: "Essays 1743", Serif
 	font-weight: normal
+h4
+  font-style: italic
 p
 	margin: 0
 	padding-bottom: 1em
@@ -131,19 +136,25 @@ a[id]
 
 ul
 ol
-  li
-    list-style: upper-roman
-    font-family: "Essays 1743", Serif
-    ol
-      margin-top: 0
-      margin-bottom: 8px
-      padding-left: 0
-      li
-        list-style: lower-roman inside
-    p, a
-      padding-bottom: 0
-      font-family: Palatino, Georgia, "Times New Roman", serif
-
+	li
+		list-style: upper-roman
+		font-family: "Essays 1743", Serif
+		ol
+			margin-top: 0
+			margin-bottom: 8px
+			padding-left: 0
+		li
+			list-style: lower-roman inside
+		p, a
+			padding-bottom: 0
+			font-family: Palatino, Georgia, "Times New Roman", serif
+dl
+	dt
+		font-family: "Essays 1743", Serif
+		margin-bottom: 0.25em
+	dd
+		font-family: Palatino, Georgia, "Times New Roman", serif
+		margin:0 0 0.75em 0.5em
 blockquote
 	border-left: 5px solid #4693C1
 	color: #666

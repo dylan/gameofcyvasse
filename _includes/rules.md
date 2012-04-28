@@ -17,8 +17,7 @@
 
 
 ##Background
-Cyvasse is a game from Old Volantis oft mentioned in book series [_A Song of Ice and Fire_](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire). Played by lords, ladies, and commoners in the east. It has developed quite a following has been used for everything from gambling to teaching wisdom to the young.
-
+Cyvasse is a game from Old Volantis oft mentioned in the book series [_A Song of Ice and Fire_](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire). Played by lords, ladies, and commoners in the east. It has developed quite a following and has been used for everything from gambling to teaching wisdom to the young.
 
 ## The Board
 The board consists of an 8 by 8 play area. Each half, referred to as a homeland, is an area of 8 by 4 and is separated at the start of the game by a screen providing sufficient cover so as each player cannot see the other's homeland.

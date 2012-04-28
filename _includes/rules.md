@@ -27,7 +27,7 @@ Cyvasse is a game from Old Volantis oft mentioned in the book series [_A Song of
 
 ## The Board
 The board consists of an 8 by 8 play area. Each half, referred to as a homeland, is an area of 8 by 4 and is separated at the start of the game by a screen providing sufficient cover so as each player cannot see the other's homeland.
-During this phase each receives their tiles and may construct their homeland according the each of the tile attributes below.
+During this phase each receives their tiles and may construct their homeland by placing tiles according the each of the tile's attributes and considerations as defined below.
 ### Tiles
 Mountains x 6
   : This tile is impassable to all units except Dragons.

@@ -26,7 +26,7 @@
 Cyvasse is a game from Old Volantis oft mentioned in the book series [_A Song of Ice and Fire_](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire). Played by lords, ladies, and commoners in the east. It has developed quite a following and has been used for everything from a good wager to teaching wisdom to the young.
 
 ## The Board
-The board consists of an 8 by 8 play area. Each half, referred to as a homeland, is an area of 8 by 4 and is separated at the start of the game by a screen providing sufficient cover so as each player cannot see the other's homeland.
+The board consists of an 8 by 8 play area with 64 tiles in total. Each half, referred to as a homeland, is an area of 8 by 4 and is separated at the start of the game by a screen providing sufficient cover so as each player cannot see the other's homeland.
 During this phase each receives their tiles and may construct their homeland by placing tiles according the each of the tile's attributes and considerations as defined below.
 ### Tiles
 Mountains x 6 (carnelian, reddish-brown)
@@ -51,7 +51,7 @@ Fortress x 1
 
 ##The Units
 There are 10 pieces, each with their own unique abilities. Each player receives one of each at the start of the game to place where they wish inside of their homeland.
-All units can kill a unit of their same type or lower, and the one above it. The list below has the weakest units at the top progressing to the strongest.
+All pieces can kill a piece of their same type or lower, and the one above it. The list below has the weakest pieces at the top progressing to the strongest.
 
 Rabble
   : Rabble can move one space at a time.
@@ -91,16 +91,16 @@ King
 ##Rules of Battle
 
 ###Movement
-Pieces move and attack at the same time similar to chess. When moving you count how many spaces you have moved. This can translate into straight, diagonal or turning movements on the board. This applies to all units with the exception of the dragon which must move in straight horizontal/vertical/diagonal paths. Enemy units may block your path and need to be removed in order to continue.
+Pieces move and attack at the same time similar to chess. When moving you count how many spaces you have moved. This can translate into straight, diagonal or turning movements on the board. This applies to all pieces with the exception of the dragon which must move in straight horizontal/vertical/diagonal paths. Enemy pieces may block your path and need to be removed in order to continue.
 
 ###Combat
-Units are taken by one player from another by skillful maneuvers across the field. An attack ends movement for that turn. Players may attack their own units.
+Pieces are taken by one player from another by skillful maneuvers across the field. An attack ends movement for that turn. Players may attack their own pieces.
 
 ####Melee
-Melee units attack other units by moving into and occupying the space of the other piece, which is then destroyed. When a piece is engage in melee all movement is stopped for the remainder of that turn.
+Melee pieces attack other pieces by moving into and occupying the space of the target piece, which is then destroyed. When a piece is engage in melee all movement is stopped for the remainder of that turn.
 
 ####Ranged
-Ranged units (Crossbowmen, Catapults, Trebuchet) do not have to move to attack but can target and remove appropriate units that are in their range.
+Ranged pieces (Crossbowmen, Catapults, Trebuchet) do not have to move to attack but can target and remove appropriate pieces that are within their range.
 
 
 ##End Game

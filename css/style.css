@@ -480,7 +480,7 @@ section.archive ul {
   body section.archive {
     width: 80%;
     margin: 0 auto;
-    padding: 1em 10% 1.5em;
+    padding: 1em 10% 0;
   }
 }
 /* @media screen and (min-width: 320px) */
@@ -498,8 +498,8 @@ section.archive ul {
   body ul.posts,
   body section.archive {
     width: 72%;
-    padding: 1em 14% 1.5em;
-    margin: 0 auto 1em;
+    padding: 1em 14% 0;
+    margin: 0 auto;
   }
 }
 /* @media screen and (min-width: 1024px) */
@@ -517,7 +517,7 @@ section.archive ul {
   body ul.posts,
   body section.archive {
     width: 60%;
-    margin: 0 auto 1em;
-    padding: 1em 20% 1.5em;
+    margin: 0 auto;
+    padding: 1em 20% 0;
   }
 }

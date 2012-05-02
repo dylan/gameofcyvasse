@@ -1,10 +1,9 @@
 
 ##Contents
 1. [Background](#background)
-2. [The Board](#the_board)
-    1. [Tiles](#tiles)
-    2. [Setup](#setup)
-3. [The Units](#the_units)
+2. [Setup](#setup)
+3. [Tiles](#tiles)
+4. [The Units](#the_units)
     1. [Rabble](#rabble)
     2. [Spearmen](#spearmen)
     3. [Crossbowmen](#crossbowmen)
@@ -15,20 +14,21 @@
     8. [Elephant](#elephant)
     9. [Dragon](#dragon)
     10. [King](#king)
-4.  [Rules of Battle](#rules_of_battle)
+5.  [Rules of Battle](#rules_of_battle)
     1. [Movement](#movement)
     2. [Combat](#combat)
-4.  [End Game](#end_game)
-5.  [Notes](#notes)
+6.  [End Game](#end_game)
+7.  [Notes](#notes)
 
 
 ##Background
 Cyvasse is a game from Old Volantis oft mentioned in the book series [_A Song of Ice and Fire_](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire). Played by lords, ladies, and commoners in the east. It has developed quite a following and has been used for everything from a good wager to teaching wisdom to the young.
 
-## The Board
+## Setup
 The board consists of an 8 by 8 play area with 64 tiles in total. Each half, referred to as a homeland, is an area of 8 by 4 and is separated at the start of the game by a screen providing sufficient cover so as each player cannot see the other's homeland.
-During this phase each receives their tiles and may construct their homeland by placing tiles according the each of the tile's attributes and considerations as defined below.
-### Tiles
+During this phase each receives their tiles and may construct their homeland by placing tiles according the each of the tile's attributes and considerations as defined below. After the tiles are arranged, players then place their pieces. Once both players have agreed that they are finished the screen is removed and play commences.
+
+## Tiles
 Mountains x 6 (carnelian, reddish-brown)
   : This tile is impassable to all units except Dragons.
     Ranged units may attack Dragons that are on mountain tiles but they cannot attack through one.

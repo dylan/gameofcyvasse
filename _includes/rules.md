@@ -4,21 +4,22 @@
 2. [Setup](#setup)
 3. [Tiles](#tiles)
 4. [The Units](#the_units)
-    1. [Rabble](#rabble)
-    2. [Spearmen](#spearmen)
-    3. [Crossbowmen](#crossbowmen)
-    4. [Light Horse](#light_horse)
-    5. [Heavy Horse](#heavy_horse)
-    6. [Trebuchet](#trebuchet)
-    7. [Catapault](#catapault)
-    8. [Elephant](#elephant)
-    9. [Dragon](#dragon)
-    10. [King](#king)
+    1. Rabble
+    2. Spearmen
+    3. Crossbowmen
+    4. Light Horse
+    5. Heavy Horse
+    6. Trebuchet
+    7. Catapault
+    8. Elephant
+    9. Dragon
+    10. King
 5.  [Rules of Battle](#rules_of_battle)
     1. [Movement](#movement)
     2. [Combat](#combat)
 6.  [End Game](#end_game)
-7.  [Notes](#notes)
+7.  [Game Pieces](#pieces)
+8.  [Notes](#notes)
 
 
 ##Background
@@ -53,39 +54,39 @@ Fortress x 1
 There are 10 pieces, each with their own unique abilities. Each player receives one of each at the start of the game to place where they wish inside of their homeland.
 All pieces can kill a piece of their same type or lower, and the one above it. The list below has the weakest pieces at the top progressing to the strongest.
 
-<a id="rabble"></a>Rabble
+Rabble
   : Rabble can move one space at a time.
   
-<a id="spearman"></a>Spearmen
+Spearmen
   : The Light Horse can move one space at a time.
     It cannot be taken by cavalry when defending.
   
-<a id="crossbownman"></a>Crossbowman
+Crossbowman
   : The Crossbowman can move one space at a time and can attack in a 1 block radius.
     Crossbowmen are capable of killing dragons.
   
-<a id="light_horse"></a>Light Horse
+Light Horse
   : The Light Horse can move three spaces at a time.
 
-<a id="heavy_horse"></a>Heavy Horse
+Heavy Horse
   : The Heavy Horse can move two spaces at a time.
 
-<a id="elephant"></a>Elephant
+Elephant
   : The Elephant can move one space at a time.
 
-<a id="catapult"></a>Catapult
+Catapult
   : The catapult can move one space at a time and can attack in a 2 block radius.
     The catapult is capable of killing dragons.
 
-<a id="trebuchet"></a>Trebuchet
+Trebuchet
   : The trebuchet can move one space at a time and can attack in a 3 block line in the direction it was last moving.
   The trebuchet is capable of killing dragons.
 
-<a id="dragon"></a>Dragon
+Dragon
   : The dragon is capable of traversing all tiles with no penalty. It can move the entire length of the board and is only blocked by the enemy dragon.
   It can roost on mountains, but it cannot attack units that inhabit forests.
   
-<a id="king"></a>King
+King
   : The king can kill any other unit and move one space.
 
 ##Rules of Battle
@@ -105,6 +106,12 @@ Ranged pieces (Crossbowmen, Catapults, Trebuchet) do not have to move to attack 
 
 ##End Game
 The game ends when one player's king is killed.
+
+##Pieces
+I've created rudimentary game pieces which can be printed out for game testing.
+* [Board](http://gameofcyvasse.com/assets/board.jpg)
+* [Units](http://gameofcyvasse.com/assets/units.jpg)
+
 
 ##Notes
 These rules are a work in progress. Based on several mentions, descriptions, and transactions in George R.R. Martin's excellent series. I've tried to construct a game that matches the story and makes for an interesting/deep/dynamic board game.

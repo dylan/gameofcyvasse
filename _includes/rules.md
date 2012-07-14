@@ -53,39 +53,39 @@ Fortress x 1
 There are 10 pieces, each with their own unique abilities. Each player receives one of each at the start of the game to place where they wish inside of their homeland.
 All pieces can kill a piece of their same type or lower, and the one above it. The list below has the weakest pieces at the top progressing to the strongest.
 
-Rabble
+<a id="rabble"></a>Rabble
   : Rabble can move one space at a time.
   
-Spearmen
+<a id="spearman"></a>Spearmen
   : The Light Horse can move one space at a time.
     It cannot be taken by cavalry when defending.
   
-Crossbowman
+<a id="crossbownman"></a>Crossbowman
   : The Crossbowman can move one space at a time and can attack in a 1 block radius.
     Crossbowmen are capable of killing dragons.
   
-Light Horse
+<a id="light_horse"></a>Light Horse
   : The Light Horse can move three spaces at a time.
 
-Heavy Horse
+<a id="heavy_horse"></a>Heavy Horse
   : The Heavy Horse can move two spaces at a time.
 
-Elephant
+<a id="elephant"></a>Elephant
   : The Elephant can move one space at a time.
 
-Catapult
+<a id="catapult"></a>Catapult
   : The catapult can move one space at a time and can attack in a 2 block radius.
     The catapult is capable of killing dragons.
 
-Trebuchet
+<a id="trebuchet"></a>Trebuchet
   : The trebuchet can move one space at a time and can attack in a 3 block line in the direction it was last moving.
   The trebuchet is capable of killing dragons.
 
-Dragon
+<a id="dragon"></a>Dragon
   : The dragon is capable of traversing all tiles with no penalty. It can move the entire length of the board and is only blocked by the enemy dragon.
   It can roost on mountains, but it cannot attack units that inhabit forests.
   
-King
+<a id="king"></a>King
   : The king can kill any other unit and move one space.
 
 ##Rules of Battle

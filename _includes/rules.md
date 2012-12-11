@@ -58,7 +58,7 @@ Rabble
   : Rabble can move one space at a time.
   
 Spearmen
-  : The Light Horse can move one space at a time.
+  : Spearmen can move one space at a time.
     It cannot be taken by cavalry when defending.
   
 Crossbowman

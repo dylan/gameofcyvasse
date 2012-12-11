@@ -10,7 +10,7 @@
     4. Light Horse
     5. Heavy Horse
     6. Trebuchet
-    7. Catapault
+    7. Catapult
     8. Elephant
     9. Dragon
     10. King
@@ -38,7 +38,7 @@ Mountains x 6 (carnelian, reddish-brown)
 Water x 5 (lapis lazuli, blue)
   : Water stops a unit's movement once they enter it.
 That unit can not be moved next turn and must wait until that turn is passed before it moves again.
-Tebuchets, Catapaults, Crossbowmen can not attack while they are in this tile.
+Trebuchets, Catapults, Crossbowmen can not attack while they are in this tile.
 
 Forest x 6 (jade, dark green)
   : A forest tile diminishes a unit's maximum range by one upon entering it. For example: If a light horse, which has a range of three, enters a forest on it's first move, it may now only move one more space.
@@ -52,7 +52,7 @@ Fortress x 1
 
 ##The Units
 There are 10 pieces, each with their own unique abilities. Each player receives one of each at the start of the game to place where they wish inside of their homeland.
-All pieces can kill a piece of their same type or lower, and the one above it. The list below has the weakest pieces at the top progressing to the strongest.
+All pieces can kill a piece of their same type or lower, the one ranked above it, and the King. The list below has the weakest pieces at the top progressing to the strongest.
 
 Rabble
   : Rabble can move one space at a time.
@@ -87,7 +87,7 @@ Dragon
   It can roost on mountains, but it cannot attack units that inhabit forests.
   
 King
-  : The king can kill any other unit and move one space.
+  : The king can kill or be killed by any other unit. It may move one space.
 
 ##Rules of Battle
 

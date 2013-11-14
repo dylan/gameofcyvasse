@@ -1,4 +1,3 @@
-
 ##Contents
 1. [Background](#background)
 2. [Setup](#setup)
@@ -33,7 +32,7 @@ During this phase each receives their tiles and may construct their homeland by 
 Mountains x 6 (carnelian, reddish-brown)
   : This tile is impassable to all units except Dragons.
     Ranged units may attack Dragons that are on mountain tiles but they cannot attack through one.
-    Players may not exceed two mountains per row. This prevents mountains from being build into impassible walls.
+    Players may not have more than two contiguous mountains. This prevents mountains from being built into impassible walls.
 
 Water x 5 (lapis lazuli, blue)
   : Water stops a unit's movement once they enter it.

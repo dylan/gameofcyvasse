@@ -1,4 +1,6 @@
-## Contents
+
+##Contents
+
 1. [Background](#background)
 2. [Setup](#setup)
 3. [Tiles](#tiles)

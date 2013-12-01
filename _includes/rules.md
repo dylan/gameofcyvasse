@@ -1,4 +1,4 @@
-##Contents
+## Contents
 1. [Background](#background)
 2. [Setup](#setup)
 3. [Tiles](#tiles)
@@ -21,7 +21,7 @@
 8.  [Notes](#notes)
 
 
-##Background
+## Background
 Cyvasse is a game from Old Volantis oft mentioned in the book series [_A Song of Ice and Fire_](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire). Played by lords, ladies, and commoners in the east. It has developed quite a following and has been used for everything from a good wager to teaching wisdom to the young.
 
 ## Setup
@@ -49,7 +49,7 @@ Fortress x 1
   : A fortress is a tile that provides an occupying unit salvation. If a unit is occupying a fortress and is attacked and would normally be taken, it is instead left in play and the fortress is 'ruined' in it's stead. A ruined fortress cannot be used again in this manner.
 
 
-##The Units
+## The Units
 There are 10 pieces, each with their own unique abilities. Each player receives one of each at the start of the game to place where they wish inside of their homeland.
 All pieces can kill a piece of their same type or lower, the one ranked above it, and the King. The list below has the weakest pieces at the top progressing to the strongest.
 
@@ -82,37 +82,37 @@ Trebuchet
   The trebuchet is capable of killing dragons.
 
 Dragon
-  : The dragon is capable of traversing all tiles with no penalty. It can move the entire length of the board and is only blocked by the enemy dragon.
+  : The dragon is capable moving any number of squares vertically, horizontally, or diagonally with no penalty. It can move the entire length of the board and is only blocked by the enemy dragon.
   It can roost on mountains, but it cannot attack units that inhabit forests.
   
 King
   : The king can kill or be killed by any other unit. It may move one space.
 
-##Rules of Battle
+## Rules of Battle
 
-###Movement
+### Movement
 Pieces move and attack at the same time similar to chess. When moving you count how many spaces you have moved. This can translate into straight, diagonal or turning movements on the board. This applies to all pieces with the exception of the dragon which must move in straight horizontal/vertical/diagonal paths. Enemy pieces may block your path and need to be removed in order to continue.
 
-###Combat
+### Combat
 Pieces are taken by one player from another by skillful maneuvers across the field. An attack ends movement for that turn. Players may attack their own pieces.
 
-####Melee
+#### Melee
 Melee pieces attack other pieces by moving into and occupying the space of the target piece, which is then destroyed. When a piece is engage in melee all movement is stopped for the remainder of that turn.
 
-####Ranged
+#### Ranged
 Ranged pieces (Crossbowmen, Catapults, Trebuchet) do not have to move to attack but can target and remove appropriate pieces that are within their range.
 
 
-##End Game
+## End Game
 The game ends when one player's king is killed.
 
-##Pieces
+## Pieces
 I've created rudimentary game pieces which can be printed out for game testing.
 * [Board](http://gameofcyvasse.com/assets/board.jpg)
 * [Units](http://gameofcyvasse.com/assets/units.jpg)
 
 
-##Notes
+## Notes
 These rules are a work in progress. Based on several mentions, descriptions, and transactions in George R.R. Martin's excellent series. I've tried to construct a game that matches the story and makes for an interesting/deep/dynamic board game.
 
 Thanks to Mr. Martin for creating an amazing world and spinning tremendous fiction. I've spent more than a decade enjoying your work.

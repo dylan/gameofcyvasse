@@ -47,7 +47,7 @@ Grass x 14 (jade, green)
   : Grass does not hinder or improve any unit's abilities.
 
 Fortress x 1
-  : A fortress is a tile that provides an occupying unit salvation. If a unit is occupying a fortress and is attacked and would normally be taken, it is instead left in play and the fortress is 'ruined' in it's stead. A ruined fortress cannot be used again in this manner. A unit can only attack an occupied fortress if it is capable of capturing the unit inside. Unoccupied fortress tiles can be occupied by any unit.
+  : A fortress is a tile that provides an occupying unit salvation. If a unit is occupying a fortress and is attacked and would normally be taken, it is instead left in play and the fortress is 'ruined' in it's stead. A ruined fortress cannot be used again in this manner. A unit can only attack an occupied fortress if it is capable of capturing the unit inside. Unoccupied fortress tiles can be occupied by any unit. If a unit attacks a fortress and ruins it, it is placed on the last tile in it's path to the fortress.
 
 
 ## The Units

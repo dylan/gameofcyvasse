@@ -1,4 +1,3 @@
-
 ##Contents
 
 1. [Background](#background)
@@ -48,12 +47,12 @@ Grass x 14 (jade, green)
   : Grass does not hinder or improve any unit's abilities.
 
 Fortress x 1
-  : A fortress is a tile that provides an occupying unit salvation. If a unit is occupying a fortress and is attacked and would normally be taken, it is instead left in play and the fortress is 'ruined' in it's stead. A ruined fortress cannot be used again in this manner.
+  : A fortress is a tile that provides an occupying unit salvation. If a unit is occupying a fortress and is attacked and would normally be taken, it is instead left in play and the fortress is 'ruined' in it's stead. A ruined fortress cannot be used again in this manner. A unit can only attack an occupied fortress if it is capable of capturing the unit inside. Unoccupied fortress tiles can be occupied by any unit.
 
 
 ## The Units
 There are 10 pieces, each with their own unique abilities. Each player receives one of each at the start of the game to place where they wish inside of their homeland.
-All pieces can kill a piece of their same type or lower, the one ranked above it, and the King. The list below has the weakest pieces at the top progressing to the strongest.
+All pieces can capture a piece of their same type or lower, the one ranked above it, and the King. The list below has the weakest pieces at the top progressing to the strongest.
 
 Rabble
   : Rabble can move one space at a time.
@@ -64,7 +63,7 @@ Spearmen
   
 Crossbowman
   : The Crossbowman can move one space at a time and can attack in a 1 block radius.
-    Crossbowmen are capable of killing dragons.
+    Crossbowmen are capable of capturing dragons.
   
 Light Horse
   : The Light Horse can move three spaces at a time.
@@ -77,18 +76,18 @@ Elephant
 
 Catapult
   : The catapult can move one space at a time and can attack in a 2 block radius.
-    The catapult is capable of killing dragons.
+    The catapult is capable of capturing dragons.
 
 Trebuchet
   : The trebuchet can move one space at a time and can attack in a 3 block line in the direction it was last moving.
-  The trebuchet is capable of killing dragons.
+  The trebuchet is capable of capturing dragons.
 
 Dragon
   : The dragon is capable moving any number of squares vertically, horizontally, or diagonally with no penalty. It can move the entire length of the board and is only blocked by the enemy dragon.
   It can roost on mountains, but it cannot attack units that inhabit forests.
   
 King
-  : The king can kill or be killed by any other unit. It may move one space.
+  : The king can capture or be captured by any other unit. It may move one space.
 
 ## Rules of Battle
 
@@ -106,7 +105,7 @@ Ranged pieces (Crossbowmen, Catapults, Trebuchet) do not have to move to attack 
 
 
 ## End Game
-The game ends when one player's king is killed.
+The game ends when one player's king is captured.
 
 ## Pieces
 I've created rudimentary game pieces which can be printed out for game testing.

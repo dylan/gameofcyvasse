@@ -110,6 +110,7 @@ The game ends when one player's king is captured.
 
 ## Pieces
 I've created rudimentary game pieces which can be printed out for game testing.
+
 * [Board](http://gameofcyvasse.com/assets/board.jpg)
 * [Units](http://gameofcyvasse.com/assets/units.jpg)
 

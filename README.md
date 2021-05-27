@@ -1,4 +1,4 @@
-gameofcyvasse
+[Game of Cyvasse](https://gameofcyvasse.com)
 =============
 
 This repo is for the rules/page that covers an interpretation of the game Cyvasse in the Song of Ice and Fire...
